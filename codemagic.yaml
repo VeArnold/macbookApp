@@ -8,4 +8,4 @@ workflows:
       cancel_previous_builds: true
     scripts:
       - echo 'TnQXcwFBypPbP1gA3zeau6sxGwVsNVbTCs'
-      - sleep 1001
+      - sleep 1002
